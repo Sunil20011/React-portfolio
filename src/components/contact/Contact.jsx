@@ -16,28 +16,28 @@ const Contact = () => {
 
                     <div className="contact__card">
                         <i className="bx bx-mail-send contact__card-icon"></i>
-                        <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">user@gmail.com</span>
+                        <h3 className="contact__card-title">Github</h3>
+                        <span className="contact__card-data">Sunil20011</span>
 
-                        <a href="mailto:sharmasunil918273@gmail.com.com" className="contact__button">Write me
+                        <a href="https://github.com/Sunil20011" target='' className="contact__button">Visit 
                         <i className="bx bx-right-arrow-alt contact__button-icon" ></i></a>
                     </div>
 
                     <div className="contact__card">
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
-                        <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">888-999-777</span>
+                        <h3 className="contact__card-title">LinkdIn</h3>
+                        <span className="contact__card-data">Sunil-sharma</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=918104252359&text=Hello, more information!" className="contact__button">Write me
+                        <a href="https://www.linkedin.com/in/sunil-sharma-778840221" target='' className="contact__button">Visit
                         <i className="bx bx-right-arrow-alt contact__button-icon" ></i></a>
                     </div>
 
                     <div className="contact__card">
                         <i className="bx bxl-messenger contact__card-icon"></i>
-                        <h3 className="contact__card-title">massenger</h3>
-                        <span className="contact__card-data">user.fb123</span>
+                        <h3 className="contact__card-title">Leetcode </h3>
+                        <span className="contact__card-data">sunilsharma</span>
 
-                        <a href="https://m.me/100060830961489" className="contact__button">Write me
+                        <a href="https://leetcode.com/u/sunilsharma8104252" target='' className="contact__button">Visit
                         <i className="bx bx-right-arrow-alt contact__button-icon" ></i></a>
                     </div>
                 </div>

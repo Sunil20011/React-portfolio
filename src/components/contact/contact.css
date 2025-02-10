@@ -50,7 +50,7 @@
 
 .contact__button{
     color: var(--text-color);
-    font-size: var(--small-font-size);
+    font-size: var(--h3-font-size);
     display: inline-flex;
     align-items: center;
     justify-content: center;

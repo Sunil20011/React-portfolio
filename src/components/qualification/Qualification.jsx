@@ -70,8 +70,9 @@ const Qualification = () => {
                             <span className="qualification__subtitle">Atharva - Institute</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calender-alt"></i>
-                                2020 - Present
+                                2020 - 2024
                             </div>
+                            <span className="qualification__subtitle">8.49 CGPA </span>
                         </div>
                     </div>
 
